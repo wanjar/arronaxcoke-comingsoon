@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 Project:  ComingSoon
-Version:  
-Last change:  
+Version:
+Last change:
 Assigned to:  Bach Le
-Primary use:  
+Primary use:
 -------------------------------------------------------------------*/
 
 
@@ -13,22 +13,22 @@ Primary use:
 
 @font-face {
   font-family: Montserrat-Regular;
-  src: url('../fonts/Montserrat/Montserrat-Regular.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
 }
 
 @font-face {
   font-family: Montserrat-Thin;
-  src: url('../fonts/Montserrat/Montserrat-Thin.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Thin.ttf');
 }
 
 @font-face {
   font-family: Montserrat-Bold;
-  src: url('../fonts/Montserrat/Montserrat-Bold.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
 }
 
 @font-face {
   font-family: Quantico-Regular;
-  src: url('../fonts/Quantico/Quantico-Regular.ttf'); 
+  src: url('../fonts/Quantico/Quantico-Regular.ttf');
 }
 
 
@@ -102,7 +102,7 @@ Primary use:
   text-shadow: 0 0px 0px #000;
   background-color: #0d1629;
   border-radius: 10px;
-} 
+}
 
 .flip-clock-wrapper ul li a div .shadow {
   border-radius: 10px;
@@ -186,7 +186,7 @@ Primary use:
   .flip-clock-divider.days {
     width: 10px;
   }
-  
+
 
   .flip-clock-divider.minutes {
     width: 10px;
@@ -311,14 +311,14 @@ Primary use:
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 
 
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -340,10 +340,10 @@ Primary use:
   top: 0;
   left: 0;
   background: #7579ff;
-  background: -webkit-linear-gradient(top, #b224ef, #7579ff);
-  background: -o-linear-gradient(top, #b224ef, #7579ff);
-  background: -moz-linear-gradient(top, #b224ef, #7579ff);
-  background: linear-gradient(top, #b224ef, #7579ff);
+  background: -webkit-linear-gradient(top, #091433, #7579ff);
+  background: -o-linear-gradient(top, #091433, #7579ff);
+  background: -moz-linear-gradient(top, #091433, #7579ff);
+  background: linear-gradient(top, #091433, #7579ff);
   opacity: 0.8;
 }
 
@@ -508,7 +508,7 @@ Primary use:
     padding-top: 80px;
     padding-bottom: 100px;
   }
-  
+
 }
 
 
